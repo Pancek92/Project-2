@@ -11,8 +11,8 @@ body {
     flex-direction: column;
     height: 100vh;
     font-family: 'Montserrat', sans-serif;
-    color: rgb(255, 255, 255);
-    background-color: rgba(82, 82, 82);
+    color: rgb(243, 242, 242);
+    background-color: rgb(62, 59, 59);
 }
 
 div {
